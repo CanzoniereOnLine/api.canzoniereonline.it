@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Api per il CanzoniereOnline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matteo Conci",
+  "license": "ISC",
+  "dependencies": {
+    "better-queue": "^3.8.5",
+    "better-queue-sqlite": "^1.0.4",
+    "hapi": "^16.1.1",
+    "sqlite3": "^3.1.8"
+  }
+}
