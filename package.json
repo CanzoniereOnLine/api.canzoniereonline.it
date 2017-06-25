@@ -12,6 +12,9 @@
     "better-queue": "^3.8.5",
     "better-queue-sqlite": "^1.0.4",
     "hapi": "^16.1.1",
-    "sqlite3": "^3.1.8"
+    "hashids": "^1.1.1",
+    "nodemailer": "^4.0.1",
+    "sqlite3": "^3.1.8",
+    "xoauth2": "^1.2.0"
   }
 }
